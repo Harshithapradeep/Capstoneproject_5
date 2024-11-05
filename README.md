@@ -84,9 +84,10 @@ LSTMs address the vanishing gradient problem of traditional RNNs, making them be
 - Model evaluation based on MAPE values for all the models and saving the model in pickle file
   
 <ins>***Purchase Order creation and sales forecasting for one week:***</ins>
+- Predicted weekly sales using the trained SARIMA model to be 3372 units pizza sold.
 - Ingredient calculation : Total quantity in KG calculated for each pizza ingredients for the week 04-01-2016 to 10-01-2016.
 - Saving the purchase order data in a csv file.
-- Predicted weekly sales using the trained SARIMA model to be 3372 units pizza sold.
+
 
   ![image](https://github.com/user-attachments/assets/dd3cc24b-ff4d-47fe-8bd8-e2518dffa087)
 
